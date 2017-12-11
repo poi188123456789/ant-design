@@ -17,6 +17,7 @@ Numeric-only input box.
 import { InputNumber } from 'antd';
 
 function onChange(value) {
+
   console.log('changed', value);
 }
 
